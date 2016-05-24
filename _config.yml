@@ -1,26 +1,26 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Ralph Vincent Regalado
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: My personal blog on tech, startup, machines and the next.
 
   # Description of your site. This will show up on the front page.
   subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
 
 author:
-  name: Stijn van Cuijk
+  name: Ralph Vincent Regalado
 
   # Necessary for contact page
-  email: stijnvcuijk@gmail.com
+  email: rv.regalado@gmail.com
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
-url: http://steinvc.github.io
+url: http://rap12.github.io
 baseurl: ""
 
 # language attribute in <html> element.
@@ -34,10 +34,10 @@ lang: en
 
 # If you want to show the subtitle anywhere else than the front page, use
 # {% include subtitle.html %} to include it anywhere you want.
-show-subtitle: true
-display-social-icons: false
+show-subtitle: false
+display-social-icons: true
 
-footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: © Copyright 2016 Ralph Vincent Regalado.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
@@ -72,7 +72,7 @@ date_format: "%b %-d, %Y"
 nav-breaking-point: 520px
 
 # Number of posts on each page.
-paginate: 3
+paginate: 5
 
 # Display links for the previous and next post on post pages.
 display-next-prev-post: false
@@ -87,17 +87,17 @@ disqus-shortname:
 
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
-twitter:
+twitter: http://twitter.com/regalandroid
 youtube:
-instagram:
+instagram: http://instagram.com/ralphtheexplorer
 tumblr:
-facebook:
+facebook: http://fb.com/rv.regalado
 google-plus:
 reddit:
 soundcloud:
 medium:
 linkedin:
-github:
+github: 
 behance:
 codepen:
 dribbble:
