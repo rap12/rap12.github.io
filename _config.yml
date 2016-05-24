@@ -21,7 +21,7 @@ author:
   info:
 
 url: http://rap12.github.io
-baseurl: ""
+baseurl: 
 
 # language attribute in <html> element.
 lang: en
@@ -37,7 +37,7 @@ lang: en
 show-subtitle: false
 display-social-icons: true
 
-footer-text: © Copyright 2016 Ralph Vincent Regalado.
+footer-text: Copyright 2016 Ralph Vincent Regalado.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
@@ -87,11 +87,11 @@ disqus-shortname:
 
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
-twitter: "http://twitter.com/regalandroid"
+twitter: http://twitter.com/regalandroid
 youtube:
-instagram: "http://instagram.com/ralphtheexplorer"
+instagram: 
 tumblr:
-facebook: "http://fb.com/rv.regalado"
+facebook: 
 google-plus:
 reddit:
 soundcloud:
