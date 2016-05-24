@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: http://rap12.github.io
-baseurl: "/"
+url: http://steinvc.github.io
+baseurl: ""
 
 # language attribute in <html> element.
 lang: en
