@@ -35,7 +35,7 @@ lang: en
 # If you want to show the subtitle anywhere else than the front page, use
 # {% include subtitle.html %} to include it anywhere you want.
 show-subtitle: false
-display-social-icons: true
+display-social-icons: false
 
 footer-text: Copyright 2016 Ralph Vincent Regalado.
 
