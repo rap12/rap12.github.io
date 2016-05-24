@@ -87,11 +87,11 @@ disqus-shortname:
 
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
-twitter: http://twitter.com/regalandroid
+twitter: "http://twitter.com/regalandroid"
 youtube:
-instagram: http://instagram.com/ralphtheexplorer
+instagram: "http://instagram.com/ralphtheexplorer"
 tumblr:
-facebook: http://fb.com/rv.regalado
+facebook: "http://fb.com/rv.regalado"
 google-plus:
 reddit:
 soundcloud:
