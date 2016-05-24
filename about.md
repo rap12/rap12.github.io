@@ -1,15 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Some information about you!
+Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and for fun by Stijn. Get the latest version at the [Github repository](https://github.com/steinvc/holo-alfa).
 
-### More Information
+---
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Holo Alfa is open source, [MIT license](http://opensource.org/licenses/MIT).
