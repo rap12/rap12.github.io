@@ -8,7 +8,7 @@ description:
   meta: My personal blog on tech, startup, machines and the next.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Natural Language Processing Researcher in the Philippines and Google Developer Group Philippines Community Lead.
 
 author:
   name: Ralph Vincent Regalado
@@ -20,7 +20,7 @@ author:
   # want it.
   info:
 
-url: http://rap12.github.io
+url: http://ralphregalado.com
 baseurl: 
 
 # language attribute in <html> element.
