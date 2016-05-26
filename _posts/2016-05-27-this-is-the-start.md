@@ -1,6 +1,5 @@
 ---
-title: This is the start
-
+title: This is the Start
 summary: I always plan on creating a blog to share my work. Work meaning all the tech presentations, tutorials, research work and findings I made in the past years and the coming future.
 ---
 
