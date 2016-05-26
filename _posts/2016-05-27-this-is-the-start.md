@@ -1,8 +1,7 @@
 ---
 title: This is the start
 
-I always plan on creating a blog to share my work. Work meaning all the tech presentations, tutorials, research work and findings I made in the past years and the coming future.
-
+summary: I always plan on creating a blog to share my work. Work meaning all the tech presentations, tutorials, research work and findings I made in the past years and the coming future.
 ---
 
 I always plan on creating a blog to share my work. Work meaning all the tech presentations, tutorials, research work and findings I made in the past years and the coming future. I’ve been keeping on my hard disk to rot some of my precious hard work and I believe it’s time to share it to the community. 
