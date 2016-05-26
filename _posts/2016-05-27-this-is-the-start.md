@@ -9,6 +9,6 @@ I always plan on creating a blog to share my work. Work meaning all the tech pre
 
 I was really energise to start this blog after my attendance to Google I/O 2016. The energetic and vibrant community vibe pushed me further to do more. And yes even with the huge task I carry now, I can still do more.
 
-To those who don’t know me yet. I’m Ralph, I’m not good in any particular skill but I consider myself jack of all trades. I always believe in people and the way to change the world begins with your will. Your will to make a change, your will to bring knowledge to those who are not privileged and converting this will into actions that impact others. I always measure success not by fame and money but the number of people you touched, inspired and helped.
+I always believe in people and the way to change the world begins with your will. Your will to make a change, your will to bring knowledge to those who are not privileged and converting this will into actions that impact others. I always measure success not by fame and money but the number of people you touched, inspired and helped.
 
 This is the start and I hope you find treasures of knowledge (hopefully) in my blog. 
