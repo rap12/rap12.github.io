@@ -26,6 +26,8 @@ baseurl:
 # language attribute in <html> element.
 lang: en
 
+timezone: Asia/Manila
+
 # FROM THIS POINT ON EVERYTHING IS OPTIONAL
 
 ##############
