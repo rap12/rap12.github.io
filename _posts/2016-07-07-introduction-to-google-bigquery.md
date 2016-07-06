@@ -34,8 +34,8 @@ For data types, only the following are currently supported:
 - Integer
 - Float
 - Boolean
-  - For CSV : true or false, 1 or 0 | case insensitive
-  - For JSON : true or false | case insensitive
+  - For CSV: true or false, 1 or 0 
+  - For JSON: true or false 
 - Record
 - Timestamp (Format:YYYY-MM-DD HH:MM:SS)
 
