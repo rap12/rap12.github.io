@@ -9,13 +9,13 @@ title: Speaking
 ### Upcoming ###
 
 July 9  
-**Introduction to Machine Learning - Speaking**
-**Jumping into Big Data using Google BigQuery - Speaking**
+**Introduction to Machine Learning - Speaking**  
+**Jumping into Big Data using Google BigQuery - Speaking**  
 *Google I/O Extended Roadshow - Dasmarinas, Cavite | De La Salle University - Dasmarinas*
 
 July 16  
-**Introduction to Machine Learning - Speaking**
-**Jumping into Big Data using Google BigQuery - Speaking** 
+**Introduction to Machine Learning - Speaking**  
+**Jumping into Big Data using Google BigQuery - Speaking**  
 *Google I/O Extended Roadshow - Laguna | University of the Philippines Los Banos*
 
 July 23  
@@ -28,7 +28,8 @@ July 30
 
 
 ### Past ###
+
 July 2  
-**Tensor Flow Basics - Speaking** 
+**Tensor Flow Basics - Speaking**  
 **Jumping into Big Data using Google BigQuery - Speaking, Workshop**  
 *Google I/O Extended Roadshow - Manila*
