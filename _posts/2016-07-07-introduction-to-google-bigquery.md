@@ -17,11 +17,11 @@ BigQuery is serverless, there is no infrastructure to manage and you don't need 
 
 **How to transfer your existing data to BigQuery?**  
 Before we can transfer, we need to prepare the data first. Your files should comply to one of the supported data formats:  
-- CSV 
-- JSON 
-- ARVO
-- Cloud Data Store
-- Excel (Yay! Though they didn't mention support for this. There are ways to push data from Excel to BigQuery)
+* CSV  
+* JSON  
+* ARVO
+* Cloud Data Store
+* Excel (Yay! Though they didn't mention support for this. There are ways to push data from Excel to BigQuery)
 
 For data types, only the following are currently supported:  
 - String
