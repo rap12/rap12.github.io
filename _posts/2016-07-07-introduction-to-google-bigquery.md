@@ -16,14 +16,16 @@ To eliminate the problem of setting up an infrastructure to store and analyze Bi
 BigQuery is serverless, there is no infrastructure to manage and you don't need to hire or be a database administrator to manage your server. Everything is manged and handled by BiqQuery so that you can focus your time analyzing data to fin meaningful insights. 
 
 **How to transfer your existing data to BigQuery?**  
-Before we can transfer, we need to prepare the data first. Your files should comply to one of the supported data formats:  
-* CSV  
-* JSON  
-* ARVO
-* Cloud Data Store
-* Excel (Yay! Though they didn't mention support for this. There are ways to push data from Excel to BigQuery)
+Before we can transfer, we need to prepare the data first. Your files should comply to one of the supported data formats:
 
-For data types, only the following are currently supported:  
+- CSV 
+- JSON 
+- ARVO
+- Cloud Data Store
+- Excel (Yay! Though they didn't mention support for this. There are ways to push data from Excel to BigQuery)
+
+For data types, only the following are currently supported:
+
 - String
 - Bytes
 - Integer
@@ -34,7 +36,8 @@ For data types, only the following are currently supported:
 - Record
 - Timestamp (Format:YYYY-MM-DD HH:MM:SS)
 
-Once data preparation in finished, you can now transfer your files to BigQuery. Below are the codelabs/tutorials to help you quickstart.  
+Once data preparation in finished, you can now transfer your files to BigQuery. Below are the codelabs/tutorials to help you quickstart.
+
 - [Using the Google Cloud Platform Cloud Shell](https://codelabs.developers.google.com/codelabs/cloud-bigquery-load-data/index.html)
 - [Using the Web UI](https://cloud.google.com/bigquery/quickstart-web-ui)
 - [Using the Command-Line Tool](https://cloud.google.com/bigquery/quickstart-command-line)
