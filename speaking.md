@@ -8,24 +8,14 @@ title: Speaking
 
 ### Upcoming ###
 
-June 25  
-**Tensor Flow Basics - Speaking, Workshop**  
-*Google I/O Extended Roadshow - Subic*
-
-July 2  
-**Tensor Flow Basics - Speaking, Workshop**  
-*Google I/O Extended Roadshow - Manila*
-
 July 9  
-**Tensor Flow Basics - Speaking, Workshop**  
+**Introduction to Machine Learning - Speaking**
+**Jumping into Big Data using Google BigQuery - Speaking**
 *Google I/O Extended Roadshow - Dasmarinas, Cavite | De La Salle University - Dasmarinas*
 
-July 10  
-**Tensor Flow Basics - Speaking, Workshop**  
-*Google I/O Extended Roadshow - Silang, Cavite | Rogationist College*
-
 July 16  
-**Tensor Flow Basics - Speaking, Workshop**  
+**Introduction to Machine Learning - Speaking**
+**Jumping into Big Data using Google BigQuery - Speaking** 
 *Google I/O Extended Roadshow - Laguna | University of the Philippines Los Banos*
 
 July 23  
@@ -38,3 +28,7 @@ July 30
 
 
 ### Past ###
+July 2  
+**Tensor Flow Basics - Speaking** 
+**Jumping into Big Data using Google BigQuery - Speaking, Workshop**  
+*Google I/O Extended Roadshow - Manila*
