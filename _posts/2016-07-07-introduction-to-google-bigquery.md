@@ -17,30 +17,30 @@ BigQuery is serverless, there is no infrastructure to manage and you don't need 
 
 **How to transfer your existing data to BigQuery?** 
 Before we can transfer, we need to prepare the data first. Your files should comply to one of the supported data formats:
-* CSV 
-* JSON 
-* ARVO
-* Cloud Data Store
-* Excel (Yay! Though they didn't mention support for this. There are ways to push data from Excel to BigQuery)
+- CSV 
+- JSON 
+- ARVO
+- Cloud Data Store
+- Excel (Yay! Though they didn't mention support for this. There are ways to push data from Excel to BigQuery)
 
 For data types, only the following are currently supported:
-* String
-* Bytes
-* Integer
-* Float
-* Boolean
-..* For CSV : true or false, 1 or 0 | case insensitive
-..* For JSON : true or false | case insensitive
-* Record
-* Timestamp (Format:YYYY-MM-DD HH:MM:SS)
+- String
+- Bytes
+- Integer
+- Float
+- Boolean
+..- For CSV : true or false, 1 or 0 | case insensitive
+..- For JSON : true or false | case insensitive
+- Record
+- Timestamp (Format:YYYY-MM-DD HH:MM:SS)
 
 Once data preparation in finished, you can now transfer your files to BigQuery. Below are the codelabs/tutorials to help you quickstart.
-* [Using the Google Cloud Platform Cloud Shell](https://codelabs.developers.google.com/codelabs/cloud-bigquery-load-data/index.html)
-* [Using the Web UI](https://cloud.google.com/bigquery/quickstart-web-ui)
-* [Using the Command-Line Tool](https://cloud.google.com/bigquery/quickstart-command-line)
+- [Using the Google Cloud Platform Cloud Shell](https://codelabs.developers.google.com/codelabs/cloud-bigquery-load-data/index.html)
+- [Using the Web UI](https://cloud.google.com/bigquery/quickstart-web-ui)
+- [Using the Command-Line Tool](https://cloud.google.com/bigquery/quickstart-command-line)
 
 To learn more about BigQuery visit [https://cloud.google.com/bigquery/](https://cloud.google.com/bigquery/)
 
-*Note: To access BigQuery and other Google Cloud Platform services, you need to register for an account at cloud.google.com and enable billing. Google offers $300 free credits to first time registrants.*
+*Note: To access BigQuery and other Google Cloud Platform services, you need to register for an account at [https://cloud.google.com](https://cloud.google.com/) and enable billing. Google offers $300 free credits to first time registrants.*
 
 
