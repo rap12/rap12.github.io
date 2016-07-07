@@ -51,4 +51,4 @@ Once data preparation in finished, you can now transfer your files to BigQuery. 
 
 To learn more about BigQuery visit [https://cloud.google.com/bigquery/](https://cloud.google.com/bigquery/)
 
-Note: To access BigQuery and other Google Cloud Platform services, you need to register for an account at [https://cloud.google.com](https://cloud.google.com/) and enable billing. Google offers $300 free credits to first time registrants.
+*Note: To access BigQuery and other Google Cloud Platform services, you need to register for an account at [https://cloud.google.com](https://cloud.google.com/) and enable billing. Google offers $300 free credits to first time registrants.*
